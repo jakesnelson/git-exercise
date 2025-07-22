@@ -1,2 +1,2 @@
 # git-exercise
-# New line
+This was changed by another developer
